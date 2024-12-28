@@ -1,4 +1,4 @@
-# 📚 Literatura App
+# 📚 LibreriaOracleAula
 
 Bienvenido a **LibreriaOracleAula**, una aplicación desarrollada en Java con Spring Boot que permite gestionar información sobre libros y autores utilizando un cliente externo para obtener datos en tiempo real. La aplicación incluye opciones para buscar, listar y explorar información detallada sobre libros y autores.
 
